@@ -1,0 +1,62 @@
+running egg_info
+creating ../../build/orca_core/orca_core.egg-info
+writing ../../build/orca_core/orca_core.egg-info/PKG-INFO
+writing dependency_links to ../../build/orca_core/orca_core.egg-info/dependency_links.txt
+writing entry points to ../../build/orca_core/orca_core.egg-info/entry_points.txt
+writing requirements to ../../build/orca_core/orca_core.egg-info/requires.txt
+writing top-level names to ../../build/orca_core/orca_core.egg-info/top_level.txt
+writing manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+reading manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+adding license file 'LICENSE'
+writing manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+copying orca_core/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+copying orca_core/core.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+copying orca_core/hardware/mock_dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+copying orca_core/hardware/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+copying orca_core/hardware/dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+copying orca_core/api/api.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+copying orca_core/api/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+copying orca_core/utils/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+copying orca_core/utils/utils.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+running install
+running install_lib
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/mock_dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api/api.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/core.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils/utils.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/mock_dynamixel_client.py to mock_dynamixel_client.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/dynamixel_client.py to dynamixel_client.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api/api.py to api.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/core.py to core.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils/utils.py to utils.cpython-310.pyc
+running install_data
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index
+creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index/packages
+copying resource/orca_core -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index/packages
+copying package.xml -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/orca_core
+running install_egg_info
+Copying ../../build/orca_core/orca_core.egg-info to /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core-0.1.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/install.log'

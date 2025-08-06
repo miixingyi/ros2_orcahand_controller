@@ -1,0 +1,36 @@
+[0.379s] Invoking command in '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/src/orcahand_controller': PYTHONPATH=/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orcahand_controller build --build-base /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build install --record /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/install.log --single-version-externally-managed install_data
+[0.500s] running egg_info
+[0.500s] creating ../../build/orcahand_controller/orcahand_controller.egg-info
+[0.500s] writing ../../build/orcahand_controller/orcahand_controller.egg-info/PKG-INFO
+[0.501s] writing dependency_links to ../../build/orcahand_controller/orcahand_controller.egg-info/dependency_links.txt
+[0.501s] writing entry points to ../../build/orcahand_controller/orcahand_controller.egg-info/entry_points.txt
+[0.501s] writing requirements to ../../build/orcahand_controller/orcahand_controller.egg-info/requires.txt
+[0.501s] writing top-level names to ../../build/orcahand_controller/orcahand_controller.egg-info/top_level.txt
+[0.501s] writing manifest file '../../build/orcahand_controller/orcahand_controller.egg-info/SOURCES.txt'
+[0.502s] reading manifest file '../../build/orcahand_controller/orcahand_controller.egg-info/SOURCES.txt'
+[0.502s] writing manifest file '../../build/orcahand_controller/orcahand_controller.egg-info/SOURCES.txt'
+[0.502s] running build
+[0.502s] running build_py
+[0.502s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build
+[0.503s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib
+[0.503s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib/orcahand_controller
+[0.503s] copying orcahand_controller/orcahand_controller.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib/orcahand_controller
+[0.503s] copying orcahand_controller/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib/orcahand_controller
+[0.503s] running install
+[0.503s] running install_lib
+[0.503s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller
+[0.503s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib/orcahand_controller/orcahand_controller.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller
+[0.503s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build/lib/orcahand_controller/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller
+[0.503s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller/orcahand_controller.py to orcahand_controller.cpython-310.pyc
+[0.504s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller/__init__.py to __init__.cpython-310.pyc
+[0.504s] running install_data
+[0.504s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/share/ament_index
+[0.504s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/share/ament_index/resource_index
+[0.504s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/share/ament_index/resource_index/packages
+[0.504s] copying resource/orcahand_controller -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/share/ament_index/resource_index/packages
+[0.504s] copying package.xml -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/share/orcahand_controller
+[0.504s] running install_egg_info
+[0.505s] Copying ../../build/orcahand_controller/orcahand_controller.egg-info to /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages/orcahand_controller-0.0.0-py3.10.egg-info
+[0.505s] running install_scripts
+[0.517s] writing list of installed files to '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/install.log'
+[0.529s] Invoked command in '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/src/orcahand_controller' returned '0': PYTHONPATH=/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orcahand_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orcahand_controller build --build-base /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/build install --record /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_controller/install.log --single-version-externally-managed install_data

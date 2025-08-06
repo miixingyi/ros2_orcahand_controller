@@ -8,7 +8,7 @@ def generate_launch_description():
     # 获取默认的urdf、rviz路径
     urdf_package_path = get_package_share_directory('orcahand_description')
     urdf_path = os.path.join(urdf_package_path,'urdf','orcahand_right.urdf')
-     # rviz_config_path = os.path.join(urdf_package_path,'config','display_orcahand.rviz')
+    rviz_config_path = os.path.join(urdf_package_path,'config','display_orcahand.rviz')
     # get_package_share_directory 查找包的路径
     # os.path.join()拼接路径成完整路径
 
@@ -28,13 +28,13 @@ def generate_launch_description():
     action_rviz_node = Node(
         package = 'rviz2',
         executable = 'rviz2',
-        # arguments = ['-d',rviz_config_path] if os.path.exists(rviz_config_path) else [] # 传递命令行参数，打开rviz文件
+        arguments = ['-d',rviz_config_path] if os.path.exists(rviz_config_path) else [] # 传递命令行参数，打开rviz文件
     )
-
+    
+    # 发布关节状态
     action_joint_state_publisher = Node(
         package = 'joint_state_publisher_gui',
         executable = 'joint_state_publisher_gui',
-        
     )
 
     # 打包返回

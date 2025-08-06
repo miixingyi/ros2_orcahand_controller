@@ -1,0 +1,64 @@
+[0.381s] Invoking command in '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/src/orca_core': PYTHONPATH=/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orca_core build --build-base /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build install --record /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/install.log --single-version-externally-managed install_data
+[0.483s] running egg_info
+[0.483s] creating ../../build/orca_core/orca_core.egg-info
+[0.483s] writing ../../build/orca_core/orca_core.egg-info/PKG-INFO
+[0.483s] writing dependency_links to ../../build/orca_core/orca_core.egg-info/dependency_links.txt
+[0.483s] writing entry points to ../../build/orca_core/orca_core.egg-info/entry_points.txt
+[0.483s] writing requirements to ../../build/orca_core/orca_core.egg-info/requires.txt
+[0.483s] writing top-level names to ../../build/orca_core/orca_core.egg-info/top_level.txt
+[0.483s] writing manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+[0.484s] reading manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+[0.484s] adding license file 'LICENSE'
+[0.484s] writing manifest file '../../build/orca_core/orca_core.egg-info/SOURCES.txt'
+[0.484s] running build
+[0.484s] running build_py
+[0.484s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build
+[0.485s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib
+[0.485s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+[0.485s] copying orca_core/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+[0.485s] copying orca_core/core.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core
+[0.485s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+[0.485s] copying orca_core/hardware/mock_dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+[0.485s] copying orca_core/hardware/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+[0.485s] copying orca_core/hardware/dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware
+[0.485s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+[0.485s] copying orca_core/api/api.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+[0.485s] copying orca_core/api/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api
+[0.485s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+[0.485s] copying orca_core/utils/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+[0.485s] copying orca_core/utils/utils.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils
+[0.485s] running install
+[0.485s] running install_lib
+[0.486s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+[0.486s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/mock_dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/hardware/dynamixel_client.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+[0.486s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api/api.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/api/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/core.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core
+[0.486s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils/__init__.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+[0.486s] copying /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build/lib/orca_core/utils/utils.py -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils
+[0.486s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/mock_dynamixel_client.py to mock_dynamixel_client.cpython-310.pyc
+[0.487s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/__init__.py to __init__.cpython-310.pyc
+[0.487s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/hardware/dynamixel_client.py to dynamixel_client.cpython-310.pyc
+[0.489s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/__init__.py to __init__.cpython-310.pyc
+[0.489s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api/api.py to api.cpython-310.pyc
+[0.489s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/api/__init__.py to __init__.cpython-310.pyc
+[0.489s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/core.py to core.cpython-310.pyc
+[0.492s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils/__init__.py to __init__.cpython-310.pyc
+[0.492s] byte-compiling /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core/utils/utils.py to utils.cpython-310.pyc
+[0.493s] running install_data
+[0.493s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index
+[0.493s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index
+[0.493s] creating /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index/packages
+[0.493s] copying resource/orca_core -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/ament_index/resource_index/packages
+[0.493s] copying package.xml -> /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/share/orca_core
+[0.493s] running install_egg_info
+[0.494s] Copying ../../build/orca_core/orca_core.egg-info to /home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages/orca_core-0.1.0-py3.10.egg-info
+[0.494s] running install_scripts
+[0.503s] writing list of installed files to '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/install.log'
+[0.514s] Invoked command in '/home/xingyi/ros2_orcahand/ros2_orcahand_ws/src/orca_core' returned '0': PYTHONPATH=/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/xingyi/ros2_orcahand/ros2_orcahand_ws/install/orca_core/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/orca_core build --build-base /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/build install --record /home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orca_core/install.log --single-version-externally-managed install_data
