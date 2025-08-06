@@ -1,0 +1,9 @@
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/uninstall.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/orcahand_description_uninstall.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/test.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/edit_cache.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/rebuild_cache.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/list_install_components.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/install.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/install/local.dir
+/home/xingyi/ros2_orcahand/ros2_orcahand_ws/build/orcahand_description/CMakeFiles/install/strip.dir
